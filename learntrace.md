@@ -1,6 +1,22 @@
-学习记录
+# 学习记录
 
-3.17
+## TODO
+
+### 公开课
+
+CS61A
+
+CS61B
+
+CSAPP CMU 15213
+
+### 项目
+
+ 用户中心
+
+### 算法-数据结构
+
+## 3.17
 
 ### OS 
 
@@ -22,6 +38,6 @@ C语言基础
 
 sudo apt install libc6-dbg
 
+### 算法-数据结构
 
-
-### Leetcode 4 题
+Leetcode 4 题

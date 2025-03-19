@@ -41,3 +41,39 @@ sudo apt install libc6-dbg
 ### 算法-数据结构
 
 Leetcode 4 题
+
+## 3.18
+
+### 算法-数据结构
+
+acwing 高精度加法 高精度减法
+
+### OS 
+
+Y4NGY
+
+3完结
+
+jyy os
+
+09 - libc 原理与实现 [2025 南京大学操作系统原理] 完结
+
+musl libc
+
+dietlibc
+
+pdclib
+
+objdump -d
+
+strace
+
+### English
+
+vol 1 2
+
+### YSYX
+
+learn c the hard way
+
+practice 5 ,6

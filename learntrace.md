@@ -16,6 +16,10 @@ CSAPP CMU 15213
 
 ### 算法-数据结构
 
+acwing 
+
+leetcode
+
 ## 3.17
 
 ### OS 
@@ -77,3 +81,38 @@ vol 1 2
 learn c the hard way
 
 practice 5 ,6
+
+## 3.21
+
+### OS
+
+jyyos
+
+可执行文件；静态链接和加载 [2025 南京大学操作系统原理]
+
+CRIU
+
+### ysyx 
+
+video1
+
+### github
+
+Introduction to GitHub ok
+
+branch
+
+commit
+
+pull request
+
+merge
+
+profile README
+
+## 3.22
+
+### ysyx
+
+learn c the hard way 8, 9
+
